@@ -1,0 +1,2 @@
+# workstation
+public workstation
